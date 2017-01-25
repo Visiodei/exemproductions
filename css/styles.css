@@ -264,10 +264,12 @@ header .header-content .inner p {
   position: fixed;
   top: 50%; left: 50%;
   z-index: 1;
-  width: auto;
+  width: 100%;
   height: auto;
   transform: translate(-50%, -50%);
 }
+
+
 
 #video-background.collapsing {
   display:none;
