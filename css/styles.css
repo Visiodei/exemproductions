@@ -260,9 +260,10 @@ header .header-content .inner p {
 }
 
 #video-background {
-position: fixed;
-width: 100%;
-height: auto;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: 1;
 }
 
 #video-background.collapsing {
