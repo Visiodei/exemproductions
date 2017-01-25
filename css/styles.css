@@ -259,17 +259,11 @@ header .header-content .inner p {
     color: rgba(255,255,255,0.7);
 }
 
-
 #video-background {
-  position: fixed;
-  top: 50%; left: 50%;
-  z-index: 1;
-  width: 100%;
-  height: auto;
-  transform: translate(-50%, -50%);
+position: fixed;
+width: 100%;
+height: auto;
 }
-
-
 
 #video-background.collapsing {
   display:none;
