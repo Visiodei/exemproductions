@@ -268,8 +268,8 @@ header .header-content .inner p {
   position: absolute;
   right: 0; 
   bottom: 0;
-  width: 100%; 
-  height: auto;
+  width: auto; 
+  height: 100%;
   z-index: 1;
 }
 
