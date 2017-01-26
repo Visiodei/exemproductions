@@ -47,6 +47,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
+    font-size: 300%;
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
 }
 
@@ -263,8 +264,8 @@ header .header-content .inner p {
 
 #video-background {
   position: absolute;
-  width: 100%; 
-  height: auto;
+  width: auto; 
+  height: 100%;
   z-index: 1;
 }
 
