@@ -47,6 +47,9 @@ a:focus {
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
 }
+h1 {
+  font-size: 70px;
+}
 
 p {
     font-size: 17px;
@@ -231,11 +234,8 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-<<<<<<< HEAD
     background-image: none;
-=======
     background-image: url('');
->>>>>>> origin/master
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
