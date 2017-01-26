@@ -168,7 +168,7 @@ footer {
 }
 
 
-@media(min-width:320px) {
+@media(min-width:768px) {
     .navbar-default {
         border-color: transparent;
         background-color: transparent;
@@ -233,7 +233,7 @@ header {
     text-align: center;
     color: #fff;
     width: 100%;
-    background-color: #c9c9c9;
+    background-color: #000000;
     background-image: none;
     background-image: url('');
     background-position: center;
@@ -252,7 +252,6 @@ header .header-content {
 }
 
 header .header-content .inner h1 {
-    font-size: 70px;
     margin-top: 0;
     margin-bottom: 0;
 }
