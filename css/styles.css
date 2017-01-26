@@ -168,7 +168,7 @@ footer {
 }
 
 
-@media(min-width:768px) {
+@media(min-width:320px) {
     .navbar-default {
         border-color: transparent;
         background-color: transparent;
