@@ -266,11 +266,11 @@ header .header-content .inner p {
 }
 
 #video-background {
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
-  width: auto; 
-  height: 100%;
+  width: 100%; 
+  height: auto;
   z-index: 1;
 }
 
